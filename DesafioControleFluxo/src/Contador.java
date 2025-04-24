@@ -27,5 +27,4 @@ public class Contador {
             System.out.println("Imprimindo número " + i );
         }
     }
-
 }
